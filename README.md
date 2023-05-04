@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sandipan.saha2001@gmail.com**
 
-- ⚡ Fun fact **Broken Humour**
+- ⚡ Fun fact **Im blessed with a Broken Humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
