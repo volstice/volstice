@@ -1,5 +1,5 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/saha-sandipan)
-<h1 align="center">Hello There 👋, I'm Sandipan Saha</h1>
+<h1 align="center">Hello There, I'm Sandipan Saha</h1>
 <h3 align="center">A passionate fast learner and a creative developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif">
 
