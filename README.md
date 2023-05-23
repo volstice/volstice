@@ -35,8 +35,8 @@
 
 
 <hr>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=volstice&show_icons=true&locale=en&show_icons=true&theme=radical&card_width=1000" alt="volstice" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=volstice&show_icons=true&locale=en&show_icons=true&theme=merko&card_width=1000" alt="volstice" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=volstice&show_icons=true&locale=en&show_icons=true&theme=radical&card_width=1000" alt="volstice" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=volstice&show_icons=true&locale=en&show_icons=true&theme=merko&card_width=1000" alt="volstice" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volstice&show_icons=true&theme=radical&card_width=1000" alt="volstice" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volstice&show_icons=true&theme=merko&card_width=1000" alt="volstice" /></p>
